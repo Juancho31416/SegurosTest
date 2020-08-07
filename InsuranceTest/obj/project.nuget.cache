@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lEOTDGjP8Tv4IkwfRpuDIIJkze8JaGdLKkg2zl6PWhqZuAEFKYut5AcDlfxPklVEK7fiNP1JCYXEPbWATl3Yqw==",
+  "dgSpecHash": "MLbT1xGrgoZT8gcIxWohP4AtivyWoEqirNVTKzi15kbagzU0Whxlwj7nZD1sLMwNrELW6FOlLrVA9uNWQ3bk4A==",
   "success": true,
-  "projectFilePath": "/Users/macbookpro/Projects/InsuranceTest/InsuranceTest/InsuranceTest/InsuranceTest/InsuranceTest.csproj",
+  "projectFilePath": "/Users/macbookpro/Documents/study/SegurosTest/InsuranceTest/InsuranceTest.csproj",
   "expectedPackageFiles": [
     "/Users/macbookpro/.nuget/packages/microsoft.aspnetcore.html.abstractions/2.2.0/microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "/Users/macbookpro/.nuget/packages/microsoft.aspnetcore.razor/2.2.0/microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
