@@ -1,6 +1,6 @@
 ﻿<Properties StartupConfiguration="{45314582-49B4-4E5D-AA4C-D9A24F3AEC60}|InsuranceTest">
   <MonoDevelop.Ide.ItemProperties.InsuranceTest PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="InsuranceTest/Controllers/InsuranceController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="web/Views/Users/Users.cshtml">
     <Files>
       <File FileName="web/Views/_ViewImports.cshtml" Line="1" Column="1" />
       <File FileName="web/Views/_ViewStart.cshtml" Line="1" Column="1" />
@@ -22,22 +22,32 @@
       <File FileName="web/wwwroot/css/site.css" Line="142" Column="28" />
       <File FileName="../../../.nuget/packages/bootstrap/4.5.2/contentFiles/any/any/wwwroot/css/bootstrap.css" Line="1" Column="1" />
       <File FileName="web/Program.cs" Line="1" Column="1" />
-      <File FileName="web/Views/Insurance/InsuranceRegister.cshtml" Line="19" Column="40" />
-      <File FileName="InsuranceTest/Models/InsuranceType.cs" Line="1" Column="1" />
+      <File FileName="web/Views/Insurance/InsuranceRegister.cshtml" Line="10" Column="15" />
+      <File FileName="InsuranceTest/Models/InsuranceType.cs" Line="14" Column="15" />
       <File FileName="InsuranceTest/Models/Insurance.cs" Line="21" Column="50" />
-      <File FileName="web/Views/Insurance/Insurance.cshtml" Line="1" Column="1" />
+      <File FileName="web/Views/Insurance/Insurance.cshtml" Line="152" Column="7" />
       <File FileName="InsuranceTest/Models/InsuranceContext.cs" Line="1" Column="1" />
       <File FileName="InsuranceTest/Models/RiskType.cs" Line="1" Column="1" />
       <File FileName="InsuranceTest/Models/DataManager/InsuranceManager.cs" Line="40" Column="60" />
-      <File FileName="InsuranceTest/Controllers/InsuranceController.cs" Line="1" Column="1" />
+      <File FileName="web/Views/Users/Users.cshtml" Line="2" Column="30" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="InsuranceTest" expanded="True">
-            <Node name="InsuranceTest" expanded="True" />
+            <Node name="InsuranceTest" expanded="True">
+              <Node name="Models" expanded="True" />
+            </Node>
             <Node name="web" expanded="True">
-              <Node name="appsettings.json" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Insurance" expanded="True" />
+                <Node name="Users" expanded="True">
+                  <Node name="Users.cshtml" selected="True" />
+                </Node>
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+              </Node>
             </Node>
           </Node>
         </State>
