@@ -8,10 +8,7 @@
     <PackageReference Include="bootstrap" Version="4.5.2" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Views\Login\" />
     <Folder Include="Views\Insurance\" />
-    <Folder Include="Views\Users\" />
-    <Folder Include="Views\register\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="Views\Users\Users.cshtml" />
