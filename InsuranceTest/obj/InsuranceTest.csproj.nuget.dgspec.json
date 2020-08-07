@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/macbookpro/Projects/InsuranceTest/InsuranceTest/InsuranceTest/InsuranceTest/InsuranceTest.csproj": {}
+    "/Users/macbookpro/Documents/study/SegurosTest/InsuranceTest/InsuranceTest.csproj": {}
   },
   "projects": {
-    "/Users/macbookpro/Projects/InsuranceTest/InsuranceTest/InsuranceTest/InsuranceTest/InsuranceTest.csproj": {
+    "/Users/macbookpro/Documents/study/SegurosTest/InsuranceTest/InsuranceTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/macbookpro/Projects/InsuranceTest/InsuranceTest/InsuranceTest/InsuranceTest/InsuranceTest.csproj",
+        "projectUniqueName": "/Users/macbookpro/Documents/study/SegurosTest/InsuranceTest/InsuranceTest.csproj",
         "projectName": "InsuranceTest",
-        "projectPath": "/Users/macbookpro/Projects/InsuranceTest/InsuranceTest/InsuranceTest/InsuranceTest/InsuranceTest.csproj",
+        "projectPath": "/Users/macbookpro/Documents/study/SegurosTest/InsuranceTest/InsuranceTest.csproj",
         "packagesPath": "/Users/macbookpro/.nuget/packages/",
-        "outputPath": "/Users/macbookpro/Projects/InsuranceTest/InsuranceTest/InsuranceTest/InsuranceTest/obj/",
+        "outputPath": "/Users/macbookpro/Documents/study/SegurosTest/InsuranceTest/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/macbookpro/.config/NuGet/NuGet.Config"

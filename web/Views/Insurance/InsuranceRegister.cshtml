@@ -1,0 +1,66 @@
+﻿@{
+    ViewData["Title"] = "Insurance Register";
+}
+<h1>@ViewData["Title"]</h1>
+
+<div class="card bg-light">
+    <article class="card-body mx-auto" style="max-width: 400px;">
+        <h4 class="card-title mt-3 text-center">Crear Seguro</h4>
+
+        <form>
+            <div class="form-group input-group">
+                <div class="input-group-prepend">
+                    <span class="input-group-text"> <i class="fa fa-user"></i> </span>
+                </div>
+                <input name="" class="form-control" placeholder="descripcion" type="text">
+            </div> <!-- form-group// -->
+            <div class="form-group input-group">
+                <div class="input-group-prepend">
+                    <span class="input-group-text"> <i class="fa fa-envelope"></i> </span>
+                </div>
+                <input name="" class="form-control" placeholder="precio" type="number">
+            </div> <!-- form-group// -->
+            <div class="form-group input-group">
+                <div class="input-group-prepend">
+                    <span class="input-group-text"> <i class="fa fa-envelope"></i> </span>
+                </div>
+                <input name="" class="form-control" placeholder="meses cobertura" type="number">
+            </div> <!-- form-group// -->
+            <div class="form-group input-group">
+                <div class="input-group-prepend">
+                    <span class="input-group-text"> <i class="fa fa-envelope"></i> </span>
+                </div>
+                <input name="" class="form-control" placeholder="inicio cobertura" type="datetime-local">
+            </div> <!-- form-group// -->
+            <div class="form-group input-group">
+                <div class="input-group-prepend">
+                    <span class="input-group-text"> <i class="fa "></i> </span>
+                </div>
+                <select class="custom-select" style="max-width: 120px;">
+                    <option selected="">+971</option>
+                    <option value="1">+972</option>
+                    <option value="2">+198</option>
+                    <option value="3">+701</option>
+                </select>
+                <input name="" class="form-control" placeholder="Tipo Cobertura" type="text">
+            </div> <!-- form-group// -->
+            <div class="form-group input-group">
+                <div class="input-group-prepend">
+                    <span class="input-group-text"> <i class="fa "></i> </span>
+                </div>
+                <select class="custom-select" style="max-width: 120px;">
+                    <option selected="">+971</option>
+                    <option value="1">+972</option>
+                    <option value="2">+198</option>
+                    <option value="3">+701</option>
+                </select>
+                <input name="" class="form-control" placeholder="Tipo Riesgo" type="text">
+            </div> <!-- form-group// -->
+            
+            <div class="form-group">
+                <button type="submit" class="btn btn-primary btn-block"> Crear Seguro  </button>
+            </div> <!-- form-group// -->
+            
+        </form>
+    </article>
+</div>

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "m1cVK0fU9da4osIWjUdlZr2+RM4uM+e3wRU2ulkUFk66JIAnOtLhNObgbKHGT7l8YimRtcUIZ2HcfP72bXX5Ww==",
+  "success": true,
+  "projectFilePath": "/Users/macbookpro/Documents/study/SegurosTest/web/web.csproj",
+  "expectedPackageFiles": [
+    "/Users/macbookpro/.nuget/packages/bootstrap/4.5.2/bootstrap.4.5.2.nupkg.sha512",
+    "/Users/macbookpro/.nuget/packages/jquery/3.0.0/jquery.3.0.0.nupkg.sha512",
+    "/Users/macbookpro/.nuget/packages/popper.js/1.16.1/popper.js.1.16.1.nupkg.sha512"
+  ],
+  "logs": []
+}

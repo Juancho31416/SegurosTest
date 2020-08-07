@@ -36,6 +36,8 @@ namespace InsuranceTest.Models.DataManager
             insurance.riskType = entity.riskType;
             insurance.coverageTime = entity.coverageTime;
             insurance.coverageInit = entity.coverageInit;
+            insurance.coverage = entity.coverage;
+            insurance.insuranceType = entity.insuranceType;
 
             _insuranceContext.SaveChanges();
         }

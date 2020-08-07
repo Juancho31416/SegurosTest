@@ -17,5 +17,7 @@ namespace InsuranceTest.Models
         public int coverageTime { get; set; }
         public float price { get; set; }
         public string riskType { get; set; }
+        public float coverage { get; set;}
+        public string insuranceType { get; set; }
     }
 }
