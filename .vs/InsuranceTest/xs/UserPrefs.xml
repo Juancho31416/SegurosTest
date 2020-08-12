@@ -1,11 +1,11 @@
 ﻿<Properties StartupConfiguration="{45314582-49B4-4E5D-AA4C-D9A24F3AEC60}|InsuranceTest">
   <MonoDevelop.Ide.ItemProperties.InsuranceTest PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="web/Controllers/UserController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="InsuranceTest/Models/DataManager/InsuranceManager.cs">
     <Files>
-      <File FileName="web/Views/_ViewImports.cshtml" Line="1" Column="1" />
-      <File FileName="web/Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="web/Views/_ViewImports.cshtml" Line="4" Column="1" />
+      <File FileName="web/Views/_ViewStart.cshtml" />
       <File FileName="web/Properties/launchSettings.json" />
-      <File FileName="web/appsettings.json" Line="1" Column="1" />
+      <File FileName="web/appsettings.json" />
       <File FileName="web/appsettings.Development.json" />
       <File FileName="web/Views/Shared/_Layout.cshtml" />
       <File FileName="web/Views/Shared/_ValidationScriptsPartial.cshtml" />
@@ -14,46 +14,65 @@
       <File FileName="web/Views/Home/Privacy.cshtml" />
       <File FileName="InsuranceTest/Models/User.cs" />
       <File FileName="web/Startup.cs" />
-      <File FileName="web/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="web/Controllers/HomeController.cs" />
       <File FileName="web/Models/ErrorViewModel.cs" />
       <File FileName="web/wwwroot/css/site.css" />
       <File FileName="../../../.nuget/packages/bootstrap/4.5.2/contentFiles/any/any/wwwroot/css/bootstrap.css" />
       <File FileName="web/Program.cs" />
       <File FileName="web/Views/Insurance/InsuranceRegister.cshtml" />
-      <File FileName="InsuranceTest/Models/InsuranceType.cs" />
+      <File FileName="InsuranceTest/Models/InsuranceType.cs" Line="1" Column="1" />
       <File FileName="InsuranceTest/Models/Insurance.cs" />
-      <File FileName="InsuranceTest/Models/InsuranceContext.cs" />
+      <File FileName="InsuranceTest/Models/InsuranceContext.cs" Line="1" Column="1" />
       <File FileName="InsuranceTest/Models/RiskType.cs" />
-      <File FileName="InsuranceTest/Models/DataManager/InsuranceManager.cs" />
-      <File FileName="web/Controllers/InsuranceController.cs" Line="25" Column="1" />
-      <File FileName="web/Views/Insurance/Index.cshtml" Line="39" Column="7" />
-      <File FileName="web/Views/User/Register.cshtml" Line="1" Column="1" />
-      <File FileName="web/Views/User/Login.cshtml" Line="1" Column="1" />
-      <File FileName="web/Views/User/Index.cshtml" Line="1" Column="1" />
-      <File FileName="web/Controllers/UserController.cs" Line="15" Column="1" />
+      <File FileName="InsuranceTest/Models/DataManager/InsuranceManager.cs" Line="1" Column="1" />
+      <File FileName="web/Controllers/InsuranceController.cs" />
+      <File FileName="web/Views/Insurance/Index.cshtml" />
+      <File FileName="web/Views/User/Register.cshtml" />
+      <File FileName="web/Views/User/Login.cshtml" />
+      <File FileName="web/Views/User/Index.cshtml" />
+      <File FileName="web/Controllers/UserController.cs" />
+      <File FileName="InsuranceTest/Program.cs" />
+      <File FileName="InsuranceTest/Startup.cs" />
+      <File FileName="InsuranceTest/Controllers/UserInsuranceController.cs" />
+      <File FileName="InsuranceTest/Models/EmployeeContext.cs" Line="35" Column="1" />
+      <File FileName="InsuranceTest/Controllers/InsuranceController.cs" />
+      <File FileName="InsuranceTest/Controllers/UserController.cs" />
+      <File FileName="InsuranceTest/Models/UserContext.cs" Line="17" Column="13" />
+      <File FileName="InsuranceTest/Controllers/EmployeeController.cs" />
+      <File FileName="InsuranceTest/appsettings.Development.json" />
+      <File FileName="InsuranceTest/appsettings.json" Line="5" Column="31" />
+      <File FileName="InsuranceTest/Models/Employee.cs" Line="1" Column="1" />
+      <File FileName="InsuranceTest/Models/UserInsuranceContext.cs" Line="13" Column="65" />
+      <File FileName="InsuranceTest/Models/Repository/IDataRepository.cs" Line="1" Column="1" />
+      <File FileName="InsuranceTest/Models/DataManager/UserInsuranceManager.cs" Line="1" Column="1" />
+      <File FileName="InsuranceTest/Models/DataManager/EmployeeManager.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="InsuranceTest" expanded="True">
-            <Node name="web" expanded="True">
-              <Node name="Controllers" expanded="True">
-                <Node name="UserController.cs" selected="True" />
+            <Node name="InsuranceTest" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="DataManager" expanded="True">
+                  <Node name="InsuranceManager.cs" selected="True" />
+                </Node>
               </Node>
-              <Node name="Views" expanded="True" />
             </Node>
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/macbookpro/Documents/study/SegurosTest/InsuranceTest/Controllers/InsuranceController.cs" relfile="InsuranceTest/Controllers/InsuranceController.cs" line="30" column="1" />
+      <Breakpoint file="/Users/macbookpro/Documents/study/SegurosTest/InsuranceTest/Controllers/InsuranceController.cs" relfile="InsuranceTest/Controllers/InsuranceController.cs" line="33" column="1" />
+      <Breakpoint file="/Users/macbookpro/Documents/study/SegurosTest/InsuranceTest/Controllers/InsuranceController.cs" relfile="InsuranceTest/Controllers/InsuranceController.cs" line="12" column="1" />
+      <Breakpoint file="/Users/macbookpro/Documents/study/SegurosTest/InsuranceTest/Controllers/EmployeeController.cs" relfile="InsuranceTest/Controllers/EmployeeController.cs" line="31" column="1" />
+      <Breakpoint file="/Users/macbookpro/Documents/study/SegurosTest/InsuranceTest/Controllers/EmployeeController.cs" relfile="InsuranceTest/Controllers/EmployeeController.cs" line="29" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

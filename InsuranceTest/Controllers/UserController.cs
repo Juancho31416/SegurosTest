@@ -26,7 +26,7 @@ namespace InsuranceTest.Controllers
 
         // GET: api/User/5
         [HttpGet("{id}", Name = "GetUser")]
-        public IActionResult Get(long id)
+        public IActionResult Get(int id)
         {
             User user = _dataRepository.Get(id);
 
@@ -56,7 +56,7 @@ namespace InsuranceTest.Controllers
 
         // PUT: api/User/5
         [HttpPut("{id}")]
-        public IActionResult Put(long id, [FromBody] User User)
+        public IActionResult Put(int id, [FromBody] User User)
         {
             if (User == null)
             {
@@ -75,7 +75,7 @@ namespace InsuranceTest.Controllers
 
         // DELETE: api/User/5
         [HttpDelete("{id}")]
-        public IActionResult Delete(long id)
+        public IActionResult Delete(int id)
         {
             User User = _dataRepository.Get(id);
             if (User == null)

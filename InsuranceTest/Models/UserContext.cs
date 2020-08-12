@@ -5,8 +5,8 @@ namespace InsuranceTest.Models
 {
     public class UserContext : DbContext
     {
-        public UserContext(DbContextOptions options)
-            : base(options)
+        public UserContext(DbContextOptions UserContext)
+            : base(UserContext)
         {
         }
 
@@ -30,7 +30,7 @@ namespace InsuranceTest.Models
                 address = "calle falsa 1234",
                 cellphone = "2222333455",
                 password = "sdadsd345",
-            });;
+            });
         }
     }
 }

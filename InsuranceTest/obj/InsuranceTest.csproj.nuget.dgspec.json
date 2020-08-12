@@ -14,7 +14,7 @@
         "outputPath": "/Users/macbookpro/Documents/study/SegurosTest/InsuranceTest/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/macbookpro/.config/NuGet/NuGet.Config"
+          "/Users/macbookpro/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"

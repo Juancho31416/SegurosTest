@@ -212,7 +212,6 @@
 /Users/macbookpro/Documents/study/SegurosTest/InsuranceTest/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
 /Users/macbookpro/Documents/study/SegurosTest/InsuranceTest/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
 /Users/macbookpro/Documents/study/SegurosTest/InsuranceTest/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
-/Users/macbookpro/Documents/study/SegurosTest/InsuranceTest/obj/Debug/netcoreapp3.1/InsuranceTest.csprojAssemblyReference.cache
 /Users/macbookpro/Documents/study/SegurosTest/InsuranceTest/obj/Debug/netcoreapp3.1/InsuranceTest.AssemblyInfoInputs.cache
 /Users/macbookpro/Documents/study/SegurosTest/InsuranceTest/obj/Debug/netcoreapp3.1/InsuranceTest.AssemblyInfo.cs
 /Users/macbookpro/Documents/study/SegurosTest/InsuranceTest/obj/Debug/netcoreapp3.1/InsuranceTest.csproj.CoreCompileInputs.cache
@@ -224,3 +223,4 @@
 /Users/macbookpro/Documents/study/SegurosTest/InsuranceTest/obj/Debug/netcoreapp3.1/InsuranceTest.dll
 /Users/macbookpro/Documents/study/SegurosTest/InsuranceTest/obj/Debug/netcoreapp3.1/InsuranceTest.pdb
 /Users/macbookpro/Documents/study/SegurosTest/InsuranceTest/obj/Debug/netcoreapp3.1/InsuranceTest.genruntimeconfig.cache
+/Users/macbookpro/Documents/study/SegurosTest/InsuranceTest/obj/Debug/netcoreapp3.1/InsuranceTest.csprojAssemblyReference.cache

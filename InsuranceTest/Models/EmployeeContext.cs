@@ -32,6 +32,24 @@ namespace InsuranceTest.Models
                 DateOfBirth = new DateTime(1981, 07, 13),
                 PhoneNumber = "111-222-3333"
             });
+
+            modelBuilder.Entity<User>().HasData(new User
+            {
+                id = 1,
+                name = "Pedro perez",
+                username = "pepe",
+                address = "calle falsa 123",
+                cellphone = "2222333455",
+                password = "sdadsd445",
+            }, new User
+            {
+                id = 2,
+                name = "Pablo perez",
+                username = "pablito",
+                address = "calle falsa 1234",
+                cellphone = "2222333455",
+                password = "sdadsd345",
+            });
         }
     }
 }

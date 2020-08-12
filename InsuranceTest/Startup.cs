@@ -22,8 +22,13 @@ namespace InsuranceTest
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<EmployeeContext>(opts => opts.UseSqlServer(Configuration["ConnectionString:InsuranceDB"]));
+            services.AddDbContext<UserInsuranceContext>(opts => opts.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+            services.AddDbContext<UserContext>(opts => opts.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+            services.AddDbContext<InsuranceContext>(opts => opts.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+            services.AddDbContext<EmployeeContext>(opts => opts.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
             services.AddScoped<IDataRepository<Employee>, EmployeeManager>();
+            services.AddScoped<IDataRepository<User>, UserManager>();
+            services.AddScoped<IDataRepository<UserInsurance>, UserInsuranceManager>();
             services.AddControllers();
         }
 
